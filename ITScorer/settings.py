@@ -22,7 +22,7 @@ SECRET_KEY = '9(z=476wa5_v6g#5=vb%cel=xhr8en1s)-q00d5yh&t+4o@v+q'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['socialwebsite-suven.herokuapp.com']
+ALLOWED_HOSTS = ['suvenchatbook.herokuapp.com']
 
 
 # Application definition
